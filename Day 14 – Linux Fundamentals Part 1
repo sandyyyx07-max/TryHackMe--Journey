@@ -1,0 +1,37 @@
+# Day 14 – Linux Fundamentals Part 1
+
+## Room
+Linux Fundamentals Part 1
+
+## Platform
+TryHackMe
+
+## Objective
+Learn the fundamentals of the Linux operating system and become familiar with basic terminal commands.
+
+## What I Learned
+- Introduction to Linux
+- Navigating the file system
+- Basic terminal commands:
+  - `pwd`
+  - `ls`
+  - `cd`
+  - `cat`
+  - `mkdir`
+  - `touch`
+  - `cp`
+  - `mv`
+  - `rm`
+- Understanding files and directories
+- Importance of the Linux command line in cybersecurity
+
+## Key Takeaways
+- Linux is widely used in cybersecurity and server environments.
+- The terminal provides an efficient way to interact with the operating system.
+- Learning basic Linux commands is an essential foundation for ethical hacking and SOC operations.
+
+## Reflection
+Today, I completed the **Linux Fundamentals Part 1** room on TryHackMe. This room introduced me to the Linux terminal and essential commands that every cybersecurity professional should know. It was a great first step toward becoming more comfortable working in Linux environments.
+
+---
+**Completed as part of my TryHackMe Cybersecurity Learning Journey. 🐧**
