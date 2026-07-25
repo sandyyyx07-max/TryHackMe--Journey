@@ -32,6 +32,7 @@ This repository documents my daily progress as I complete TryHackMe rooms and bu
 | Day 15 | Windows Fundamentals 1 | ✅ |
 | Day 16 | Windows Command Line | ✅ |
 | Day 17 | Windows Fundamentals 2 | ✅ |
+| Day 18 | Networking Concepts |  ✅ |
 
 ## 🛠️ Skills Learned
 
@@ -57,7 +58,7 @@ TryHackMe-Journey
 ├── Day 02 – Defensive Security Intro
 ├── Day 03 – DNS in Detail
 ├── ...
-├── Day 17 – Windows Fundamentals 2
+├── Day 18 – Networking Concepts
 └── README.md
 ```
 
