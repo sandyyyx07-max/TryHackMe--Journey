@@ -1,0 +1,30 @@
+# Day 18 – Networking Concepts
+
+## Room
+Networking Concepts
+
+## Platform
+TryHackMe
+
+## Objective
+Learn the core networking concepts and understand how devices communicate over a network.
+
+## What I Learned
+- OSI Model
+- TCP/IP Model
+- IP Addresses
+- Subnets
+- TCP and UDP protocols
+- Encapsulation
+
+## Key Takeaways
+- The OSI and TCP/IP models explain how network communication works.
+- IP addressing and subnetting are essential for identifying devices on a network.
+- TCP provides reliable communication, while UDP is faster with lower overhead.
+- Encapsulation describes how data is packaged as it moves through the network stack.
+
+## Reflection
+Today, I completed the Networking Concepts room and strengthened my understanding of how networks operate. A solid networking foundation is essential for analyzing traffic, troubleshooting issues, and advancing in cybersecurity.
+
+---
+**Completed as part of my TryHackMe Cybersecurity Learning Journey. 🚀**
