@@ -1,0 +1,29 @@
+# Day 15 – Windows Fundamentals 1
+
+## Room
+Windows Fundamentals 1
+
+## Platform
+TryHackMe
+
+## Objective
+Learn the fundamentals of the Windows operating system and its essential components.
+
+## What I Learned
+- Windows Desktop
+- NTFS File System
+- User Account Control (UAC)
+- Control Panel
+- Basic Windows settings and navigation
+- Common Windows features
+
+## Key Takeaways
+- Windows is one of the most widely used operating systems in enterprise environments.
+- Understanding Windows fundamentals is essential for cybersecurity professionals.
+- Features like NTFS and UAC play an important role in system security.
+
+## Reflection
+Today, I completed the Windows Fundamentals 1 room and gained a better understanding of the Windows operating system. This knowledge will help me build a strong foundation for future Windows administration and cybersecurity topics.
+
+---
+**Completed as part of my TryHackMe Cybersecurity Learning Journey. 🚀**
