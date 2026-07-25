@@ -65,8 +65,7 @@ TryHackMe-Journey
 ## 🚀 Connect With Me
 
 - LinkedIn: *www.linkedin.com/in/santhosh-v-engineer*
-- GitHub: *(Add your GitHub profile link)*
-- TryHackMe: *(Add your TryHackMe profile link)*
+- GitHub: *https://github.com/sandyyyx07-max/TryHackMe--Journey*
 
 ---
 
