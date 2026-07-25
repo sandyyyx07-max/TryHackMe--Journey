@@ -1,0 +1,30 @@
+# Day 17 – Windows Fundamentals 2
+
+## Room
+Windows Fundamentals 2
+
+## Platform
+TryHackMe
+
+## Objective
+Learn about Windows system configuration tools, security features, and core system components.
+
+## What I Learned
+- Windows System Configuration (MSConfig)
+- User Account Control (UAC)
+- Windows Registry
+- Resource Monitor
+- Windows utilities and system tools
+- Core Windows security concepts
+
+## Key Takeaways
+- Windows provides several built-in tools for system management and troubleshooting.
+- UAC helps protect the system by preventing unauthorized changes.
+- The Windows Registry stores important system and application settings.
+- Resource Monitor helps analyze system performance and resource usage.
+
+## Reflection
+Today, I completed the Windows Fundamentals 2 room and gained a deeper understanding of Windows configuration and security features. These concepts are valuable for troubleshooting systems and building a strong foundation for cybersecurity.
+
+---
+**Completed as part of my TryHackMe Cybersecurity Learning Journey. 🚀**
