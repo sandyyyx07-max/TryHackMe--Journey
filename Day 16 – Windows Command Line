@@ -1,0 +1,29 @@
+# Day 16 – Windows Command Line
+
+## Room
+Windows Command Line
+
+## Platform
+TryHackMe
+
+## Objective
+Learn the fundamentals of the Windows Command Prompt (CMD) and perform basic command-line operations.
+
+## What I Learned
+- Introduction to the Windows Command Prompt (CMD)
+- Basic CMD commands
+- Navigating files and directories
+- Creating, copying, moving, and deleting files
+- Viewing directory contents
+- Understanding command-line workflows
+
+## Key Takeaways
+- The Command Prompt is an important tool for Windows administration.
+- Knowing CMD commands improves efficiency when managing files and troubleshooting systems.
+- Command-line skills are valuable for both system administrators and cybersecurity professionals.
+
+## Reflection
+Today, I completed the Windows Command Line room and gained hands-on experience using CMD. Learning to work from the command line is an essential skill that will help me in Windows administration and cybersecurity tasks.
+
+---
+**Completed as part of my TryHackMe Cybersecurity Learning Journey. 🚀**
